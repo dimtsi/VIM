@@ -1,3 +1,5 @@
+cp .vimrc ~/.vimrc
+cp .ideavimrc ~/.ideavimrc
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
