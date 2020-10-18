@@ -1,0 +1,1 @@
+/home/dimtsi/.vim/vimrc
